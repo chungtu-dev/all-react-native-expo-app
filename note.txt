@@ -1,0 +1,6 @@
+npx expo start
+expo
+yarn
+npm
+
+scan QR code on terminal with expo app
